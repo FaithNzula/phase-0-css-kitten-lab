@@ -37,7 +37,11 @@ write-your-selector-here {
   top: 217px;
   left: 223px;
 }
-
+img[alt="Kitty 5"] {
+  position: absolute;
+  z-index: 3;
+  top: 217px;
+}
 
 
 
